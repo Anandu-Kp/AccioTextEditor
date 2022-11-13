@@ -140,7 +140,6 @@ public class TextEditor implements ActionListener {
                }
            }
         }
-        // for edit menubar
         if(e.getSource()==cut)
         {
             textArea.cut();
